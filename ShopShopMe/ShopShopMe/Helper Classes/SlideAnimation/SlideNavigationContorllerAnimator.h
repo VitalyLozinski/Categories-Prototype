@@ -2,8 +2,8 @@
 //  SlideNavigationContorllerAnimation.h
 //  ShopShopMe
 //
-//  Created by Jin WeiYi on 6/6/15.
-//  Copyright (c) 2015 Minhua. All rights reserved.
+//  Created by Vitaly on 6/6/15.
+//  Copyright (c) 2015 Vitaly. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
